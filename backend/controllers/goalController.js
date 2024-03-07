@@ -42,3 +42,7 @@ module.exports = {
   updateGoal,
   deleteGoal,
 };
+
+// MERN-TUTORIAL (CHATS APP)
+// goalsApp
+// goals
